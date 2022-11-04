@@ -1,0 +1,3 @@
+[submodule "Merge-Sort"]
+	path = Merge-Sort
+	url = https://github.com/HenokB/Merge-Sort
